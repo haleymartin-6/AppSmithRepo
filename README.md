@@ -1,6 +1,4 @@
-# AppSmithRepo![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
-
-## Make sure you make your own feature/[your name] branch before making any changes to the repo
+### Make sure you make your own feature/[your name] branch before making any changes to the repo
 
 ![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
 
