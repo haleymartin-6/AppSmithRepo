@@ -23,7 +23,7 @@
         {"key": "primaryColumns.retailerID.computedValue"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 0,
+    "leftColumn": 45,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "flexVerticalAlignment": "start",
@@ -341,7 +341,7 @@
     "key": "cflxyz4uqe",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 39,
+    "rightColumn": 58,
     "textSize": "0.875rem",
     "widgetId": "w88cywxjjp",
     "minWidth": 450,

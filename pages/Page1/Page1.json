@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 950,
+          "bottomRow": 1170,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -37,6 +37,14 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Page1_get_all_notifications",
+              "name": "get_all_notifications",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
               "id": "Page1_get_discount_info",
               "name": "get_discount_info",
               "confirmBeforeExecute": false,
@@ -47,6 +55,14 @@
             {
               "id": "Page1_get_one_discount_info",
               "name": "get_one_discount_info",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Page1_get_produtcs",
+              "name": "get_produtcs",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

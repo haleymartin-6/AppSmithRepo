@@ -6,7 +6,7 @@
     "topRow": 14,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
-    "leftColumn": 56,
+    "leftColumn": 60,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"},
@@ -137,7 +137,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 95,
+    "originalBottomRow": 104,
     "useSourceData": false,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",
@@ -332,7 +332,7 @@
     },
     "dynamicPropertyPathList": [],
     "displayName": "JSON Form",
-    "bottomRow": 95,
+    "bottomRow": 104,
     "fieldLimitExceeded": false,
     "parentRowSpace": 10,
     "title": "Form",
